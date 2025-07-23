@@ -5,7 +5,8 @@ Bu rapor, görme engelli bireylerin günlük yaşamlarında karşılaşabilecekl
 tehlikeleri önlemek amacıyla tasarlanan sesli ve sözlü uyarı sistemini tanıtmakta ve
 geliştirme sürecini detaylandırmaktadır
 
-1. Giriş
+1.Giriş
+   
   Geliştirilen sistem, çevredeki nesneleri analiz eder ve bunları anlaşılır sesli
 açıklamalarla kullanıcıya aktarır. Böylece kullanıcı, bulunduğu ortamdaki objeleri
 tanımlayabilir ve daha güvenli adımlar atabilir. Projenin bir diğer fonksiyonu ise, engelleri
