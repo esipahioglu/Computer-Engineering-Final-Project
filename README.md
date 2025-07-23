@@ -3,7 +3,7 @@ Bu repo, Tekirdağ Namık Kemal Üniversitesi Bilgisayar Mühendisliği proje-2 
 
    Bu rapor, görme engelli bireylerin günlük yaşamlarında karşılaşabilecekleri potansiyel
 tehlikeleri önlemek amacıyla tasarlanan sesli ve sözlü uyarı sistemini tanıtmakta ve
-geliştirme sürecini detaylandırmaktadır
+geliştirme sürecini detaylandırmaktadır.
 
    
    Geliştirilen sistem, çevredeki nesneleri analiz eder ve bunları anlaşılır sesli
