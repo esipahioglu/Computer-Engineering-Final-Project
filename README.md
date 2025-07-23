@@ -8,7 +8,7 @@ geliştirme sürecini detaylandırmaktadır
    
    Geliştirilen sistem, çevredeki nesneleri analiz eder ve bunları anlaşılır sesli
 açıklamalarla kullanıcıya aktarır. Böylece kullanıcı, bulunduğu ortamdaki objeleri
-tanımlayabilir ve daha güvenli adımlar atabilir. Projenin bir diğer fonksiyonu ise, engelleri
+tanımlayabilir ve daha güvenli adımlar atabilir. Projenin bir diğer fonksiyonu, engelleri
 algılayabilen iki adet ultrasonik mesafe sensörü ve sesli uyarı sistemiyle, kullanıcının önünde
 bulunan fiziksel engeller hakkında anlık sesli bildirim verir. Bu yapı sayesinde görme engelli
 birey, önündeki cisme ne kadar mesafe olduğunu anlayabilir ve yönünü buna göre
